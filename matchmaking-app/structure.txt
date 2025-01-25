@@ -1,0 +1,21 @@
+matchmaking-app/
+├── app/
+│   ├── screens/
+│   │   ├── HomeScreen.js
+│   │   ├── CreateSessionScreen.js
+│   │   └── JoinSessionScreen.js
+│   ├── components/
+│   │   ├── Button.js
+│   │   └── SessionCard.js
+│   ├── navigation/
+│   │   └── AppNavigator.js
+│   ├── config/
+│   │   └── firebase.js
+│   ├── hooks/
+│   │   └── useSession.js
+│   └── utils/
+│       └── helpers.js
+├── assets/
+│   └── images/
+├── App.js
+└── package.json
